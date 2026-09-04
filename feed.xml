@@ -31,5 +31,13 @@
       <guid isPermaLink="false">https://us-east.storage.cloudconvert.com/tasks/456ea31c-aefa-4e2a-a626-806ee05bea5a/briefing-2026-09-04.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=cloudconvert-production%2F20260904%2Fva%2Fs3%2Faws4_request&amp;X-Amz-Date=20260904T090036Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=0c9726d23f8615e37ee5698c44332452f33e2f334b18fbab0efaf0b19f8f4b9d&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3D%22briefing-2026-09-04.mp3%22&amp;response-content-type=audio%2Fmpeg&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject</guid>
       <pubDate>Fri, 04 Sep 2026 09:00:55 GMT</pubDate>
     </item>
+  
+    <item>
+      <title>Daily Briefing — September 4, 2026</title>
+      <description>Daily Briefing — September 4, 2026</description>
+      <enclosure url="https://us-east.storage.cloudconvert.com/tasks/6be0fda8-b250-4293-95bc-6fdcd64de102/briefing-2026-09-04.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=cloudconvert-production%2F20260904%2Fva%2Fs3%2Faws4_request&amp;X-Amz-Date=20260904T090136Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=deb2e56fa5abdaa395a065dbdf55e6c3487db0965241325b45cd32f5a4527692&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3D%22briefing-2026-09-04.mp3%22&amp;response-content-type=audio%2Fmpeg&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject" type="audio/mpeg" />
+      <guid isPermaLink="false">https://us-east.storage.cloudconvert.com/tasks/6be0fda8-b250-4293-95bc-6fdcd64de102/briefing-2026-09-04.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=cloudconvert-production%2F20260904%2Fva%2Fs3%2Faws4_request&amp;X-Amz-Date=20260904T090136Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=deb2e56fa5abdaa395a065dbdf55e6c3487db0965241325b45cd32f5a4527692&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3D%22briefing-2026-09-04.mp3%22&amp;response-content-type=audio%2Fmpeg&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject</guid>
+      <pubDate>Fri, 04 Sep 2026 09:01:55 GMT</pubDate>
+    </item>
   </channel>
 </rss>
