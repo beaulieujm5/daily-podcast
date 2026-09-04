@@ -7,5 +7,13 @@
     <itunes:author>Automated System</itunes:author>
     <description>Daily personalized briefing.</description>
     <!-- Dynamic items appended here -->
+  
+    <item>
+      <title>Daily Briefing — September 3, 2026</title>
+      <description>Daily Briefing — September 3, 2026</description>
+      <enclosure url="https://us-east.storage.cloudconvert.com/tasks/ea1ccf63-83b9-4a33-86e7-69facbd3b88c/briefing-2026-09-03.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=cloudconvert-production%2F20260904%2Fva%2Fs3%2Faws4_request&amp;X-Amz-Date=20260904T000840Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=91b24ae449b74d8471c7b68582637f7dd808d2d7abf5afd86b857a8bf16b48da&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3D%22briefing-2026-09-03.mp3%22&amp;response-content-type=audio%2Fmpeg&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject" type="audio/mpeg" />
+      <guid isPermaLink="false">https://us-east.storage.cloudconvert.com/tasks/ea1ccf63-83b9-4a33-86e7-69facbd3b88c/briefing-2026-09-03.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=cloudconvert-production%2F20260904%2Fva%2Fs3%2Faws4_request&amp;X-Amz-Date=20260904T000840Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=91b24ae449b74d8471c7b68582637f7dd808d2d7abf5afd86b857a8bf16b48da&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3D%22briefing-2026-09-03.mp3%22&amp;response-content-type=audio%2Fmpeg&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject</guid>
+      <pubDate>Fri, 04 Sep 2026 00:09:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
