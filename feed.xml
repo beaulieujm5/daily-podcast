@@ -9,7 +9,7 @@
     <!-- Dynamic items appended here -->
   
     <item>
-      <title>Daily Briefing — September 14, 2026</title>
+      <title>Daily Briefing — Today</title>
       <description>Daily Briefing — Today</description>
       <enclosure url="https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-b04221cead3b422fa43dd3fec7e4ce62.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-b04221cead3b422fa43dd3fec7e4ce62.mp3</guid>
@@ -17,7 +17,7 @@
     </item>
   
     <item>
-      <title>Daily Briefing — September 14, 2026</title>
+      <title>Daily Briefing — Today Also</title>
       <description>Daily Briefing — Today Also</description>
       <enclosure url="https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-1979ff088c9447d0aa7c534e3db58d96.mp3" type="audio/mpeg" />
       <guid isPermaLink="false">https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-1979ff088c9447d0aa7c534e3db58d96.mp3</guid>
