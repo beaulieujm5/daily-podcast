@@ -176,5 +176,13 @@
       <guid isPermaLink="false">https://us-east.storage.cloudconvert.com/tasks/d4eab07e-7f31-4942-b1c5-7d277393a9f9/briefing-2026-09-13.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=cloudconvert-production%2F20260913%2Fva%2Fs3%2Faws4_request&amp;X-Amz-Date=20260913T090311Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=5c8f936f05217b7bd8775c2c685905eba0cc82daca5308f5cb813387d5e1214d&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=attachment%3B%20filename%3D%22briefing-2026-09-13.mp3%22&amp;response-content-type=audio%2Fmpeg&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject</guid>
       <pubDate>Sun, 13 Sep 2026 09:03:31 GMT</pubDate>
     </item>
+  
+    <item>
+      <title>Daily Briefing — September 13, 2026</title>
+      <description>Daily Briefing — September 13, 2026</description>
+      <enclosure url="https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-2026-09-13.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-2026-09-13.mp3</guid>
+      <pubDate>Mon, 14 Sep 2026 00:08:51 GMT</pubDate>
+    </item>
   </channel>
 </rss>
