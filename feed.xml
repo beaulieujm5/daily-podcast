@@ -55,5 +55,13 @@
       <guid isPermaLink="false">https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-e9444d3ac93b4a0e993814e52784b152.mp3</guid>
       <pubDate>Fri, 18 Sep 2026 08:00:59 GMT</pubDate>
     </item>
+  
+    <item>
+      <title>Daily Briefing — September 19, 2026</title>
+      <description>Daily Briefing — September 19, 2026</description>
+      <enclosure url="https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-e5769144617746c99ac88777973dedd2.mp3" type="audio/mpeg" />
+      <guid isPermaLink="false">https://raw.githubusercontent.com/beaulieujm5/daily-podcast/main/audio/briefing-e5769144617746c99ac88777973dedd2.mp3</guid>
+      <pubDate>Sat, 19 Sep 2026 08:00:59 GMT</pubDate>
+    </item>
   </channel>
 </rss>
